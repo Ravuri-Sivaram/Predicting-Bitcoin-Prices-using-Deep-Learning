@@ -30,17 +30,6 @@ This project uses a Long Short-Term Memory (LSTM) Recurrent Neural Network to pr
 5. Visualize training/validation loss and price predictions
 6. Evaluate with MAE, MSE, RMSE, and R² Score
 
-## 📈 Results
-
-| Metric     | Value        |
-|------------|--------------|
-| MAE        | 2892.07      |
-| MSE        | 31,747,013.27|
-| RMSE       | 5634.45      |
-| R² Score   | 0.9012       |
-
-The model successfully captures the trend of Bitcoin prices with an R² of 90%.
-
 ## 📉 Visualization
 
 - Training vs. Validation Loss  
